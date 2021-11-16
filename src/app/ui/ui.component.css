@@ -1,0 +1,37 @@
+.textbox {
+  border: 2px solid rgb(0, 217, 255);
+  margin-right: 10px;
+  margin-left: 5px;
+  padding: 20px;
+  border-radius: 10px;
+  text-size-adjust: auto;
+}
+
+.boton {
+  border: 5px solid rgb(0, 255, 179);
+  background: black;
+  color: aqua;
+  padding: 15px 60px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+  .boton:active {
+    border: 5px solid rgb(0, 255, 179);
+    background: rgb(81, 255, 0);
+    color: rgb(0, 0, 0);
+    padding: 20px 65px;
+    margin-right: 10px;
+  }
+
+.letrica {
+  font-size: 20px;
+}
+
+.alao {
+  display: flex;
+}
+
+.result {
+  font-size: 50px;
+}
