@@ -19,4 +19,7 @@ describe ('Calcular',() => {
         peso=form.calcular(10);
         expect(peso).toBe(98);
     });
+
+});
+=======
 });
